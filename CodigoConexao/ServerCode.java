@@ -1,7 +1,7 @@
 import java.io.*;
 import java.net.*;
 
-public class NewServer {
+public class ServerCode{
 	
 	public static final int port = 1234;
 	
