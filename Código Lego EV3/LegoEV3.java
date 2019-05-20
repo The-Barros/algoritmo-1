@@ -9,7 +9,7 @@ import lejos.robotics.TouchAdapter;
 import lejos.robotics.ColorAdapter;
 import lejos.hardware.sensor.EV3ColorSensor;
 
-public class JasonEV3 {
+public class LegoEV3 {
 	
 	public static final int port = 1234;
 		
